@@ -38,7 +38,6 @@ This project is a custom mechanical keyboard designed from scratch using **KiCad
 | **KiCad**       | PCB and schematic design             |
 | **QMK Firmware**| Keyboard firmware and keymap config  |
 | **QMK Toolbox** | Flash `.hex` file to ATmega32A       |
-| **Git**         | Version control                      |
 
 ---
 
