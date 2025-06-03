@@ -87,8 +87,8 @@ qmk compile -kb your_keyboard -km default
 Result: your_keyboard_default.hex
 ----------------------------------------------------------
 🚀 Flash Firmware to ATmega32A
-1. Using QMK Toolbox:
-2. Open QMK Toolbox
-3. Load the .hex file from build output
-4. Connect keyboard to USB (enter bootloader mode)
-5. Press Flash
+Using QMK Toolbox:
+1. Open QMK Toolbox
+2. Load the .hex file from build output
+3. Connect keyboard to USB (enter bootloader mode)
+4. Press Flash
